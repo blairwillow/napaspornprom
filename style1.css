@@ -1,0 +1,92 @@
+body{
+    background: radial-gradient(plum,lightskyblue,pink)
+}
+.wedpage{
+    text-align: center;
+    color: beige;
+    font-family: 'Mate',sans-serif;
+}
+.index{
+    text-align: center;
+}
+.section1 p{
+    text-align: center;
+    color: mistyrose;
+    font-family: 'Noto Sans Thai',sans-serif;
+}
+.section1 h2{
+    text-align: center;
+    font-size: medium;
+    color: cyan;
+    font-family: 'Noto Sans Thai',sans-serif;
+}
+.section1 h3{
+    text-align: center;
+    font-size: medium;
+    color: darkslateblue;
+    font-family: 'Noto Sans Thai',sans-serif;
+}
+.section1 h4{
+    text-align: center;
+    font-size: medium;
+    color: lemonchiffon;
+    font-family: 'Noto Sans Thai',sans-serif;
+}
+.section1 h5{
+    text-align: center;
+    font-size: medium;
+    color: khaki;
+    font-family: 'Noto Sans Thai',sans-serif;
+}
+.section1 h6{
+    text-align: center;
+    font-size: medium;
+    color: rgb(55, 124, 133);
+    font-family: 'Noto Sans Thai',sans-serif;
+}
+.footer1 p{
+    text-align: center;
+    color: lavender;
+    font-family: 'Noto Sans Thai',sans-serif;
+}
+.custom h1{
+    text-align: center;
+}
+.custom h2{
+    text-align: center;
+}
+.custom h3{
+    text-align: center;
+}
+.custom h4{
+    text-align: center;
+}
+.custom h5{
+    text-align: center;
+}
+.section2{
+    color: rgb(150, 65, 150);
+}
+.table{
+}
+.p2{
+    color: snow;
+}
+.p3{
+    color: snow;
+}
+.p4{
+    color: snow;
+}
+.p5{
+    color: snow;
+}
+.p6{
+    color: snow;
+}
+.p7{
+    color: snow;
+}
+.p8{
+    color: snow; 
+}
